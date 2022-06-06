@@ -1,0 +1,122 @@
+body{
+    background-color: white;
+}
+
+table{
+    margin-left: 15px;
+}
+
+td{
+    padding-bottom: 7px;
+}
+
+li{
+    color: whitesmoke;
+}
+
+p{
+    margin-left: 15px; 
+}
+
+#experience{
+    list-style:circle;
+    color: black;
+    padding: 0px;
+}
+
+#language{
+    
+    margin-left: 15px;
+    margin-bottom: 0px;
+}
+
+.main{
+    border: 3px black;
+    width: 800px;
+    height: 100%;
+    margin-left: 400px;
+}
+
+.lh{
+    color: yellow;
+    background-color: #191970;
+    font-family: 'Times New Roman';
+    margin-left: 30px;
+}
+
+.tab{
+    border: 2px black;
+}
+
+.tab2{
+    border: 1px black;
+}
+
+pre{
+    font-size: 10;
+    font-family: Arial;
+    
+}
+
+.left{
+    padding-top: 25px;
+    background-color: #191970;
+    height: 100%;
+    width: 50%;
+    float:left
+}
+
+.right{
+    background-color: whitesmoke;
+    height: 150%;
+    width: 50%;
+    float:right
+}
+
+.pfp{
+    width: 50%;
+    height: 50%;
+}
+
+.rh{
+    color: whitesmoke;
+    background-color: orange;
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+
+.emj{
+    color: yellow;
+}
+
+.bar1{
+    margin-left: 30px;
+}
+
+.bar2{
+    margin-left: 35px;
+}
+
+.bar3{
+    margin-left: 29px;
+}
+
+.bar4{
+    margin-left: 19px;
+}
+
+span{
+    color: whitesmoke;
+}
+
+.dot{
+    color: orange;
+}
+
+.li{
+    color: whitesmoke;
+}
+
+.black{
+    color: black;
+}
